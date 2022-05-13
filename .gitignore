@@ -1,2 +1,4 @@
 *.txt
 *.json
+/ex_5/data
+/ex_5/*.zip
