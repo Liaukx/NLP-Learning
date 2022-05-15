@@ -2,3 +2,6 @@
 *.json
 /ex_5/data
 /ex_5/*.zip
+/ex_7/*.zip
+/ex_7/*.model
+/ex_7/*.npy
