@@ -1,3 +1,4 @@
+用transformers 运行清博第一名方案
 # 下载model
 chinese_L-12-H-786_A-12
 roberta
